@@ -34,7 +34,7 @@
         "settings": {
           "color_scheme": "accent-1",
           "logo": "shopify:\/\/shop_images\/Sparkle_2.png",
-          "logo_width": 100,
+          "logo_width": 140,
           "logo_position": "middle-left",
           "menu": "main-menu",
           "show_line_separator": true,
