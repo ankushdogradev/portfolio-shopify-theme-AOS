@@ -1,14 +1,15 @@
 {
   "current": {
-    "colors_solid_button_labels": "#FFFFFF",
-    "colors_accent_1": "#121212",
-    "colors_accent_2": "#334FB4",
-    "colors_text": "#121212",
+    "colors_solid_button_labels": "#e9a6a6",
+    "colors_accent_1": "#1f1d36",
+    "colors_accent_2": "#864879",
+    "colors_text": "#e9a6a6",
     "colors_outline_button_labels": "#121212",
-    "colors_background_1": "#FFFFFF",
-    "colors_background_2": "#F3F3F3",
+    "colors_background_1": "#3f3351",
+    "colors_background_2": "#ffffff",
     "type_header_font": "assistant_n4",
     "type_body_font": "assistant_n4",
+    "sale_badge_color_scheme": "accent-2",
     "sections": {
       "announcement-bar": {
         "type": "announcement-bar",
@@ -32,7 +33,7 @@
         "type": "header",
         "settings": {
           "color_scheme": "accent-1",
-          "logo": "shopify:\/\/shop_images\/Sparkle_1.png",
+          "logo": "shopify:\/\/shop_images\/Sparkle_2.png",
           "logo_width": 100,
           "logo_position": "middle-left",
           "menu": "main-menu",
