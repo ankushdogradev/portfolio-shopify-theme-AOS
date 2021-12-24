@@ -35,6 +35,7 @@
 }
 
 @media screen and (min-width: 750px) {
+
   .rich-text:not(.rich-text--full-width),
   .rich-text--full-width.color-background-1 {
     margin-top: calc(5rem + var(--page-width-margin));
@@ -64,15 +65,15 @@
 
 /* Blocks */
 
-.rich-text__blocks > * {
+.rich-text__blocks>* {
   margin-top: 0;
   margin-bottom: 0;
 }
 
-.rich-text__blocks > * + * {
+.rich-text__blocks>*+* {
   margin-top: 2rem;
 }
 
-.rich-text__blocks > * + a {
+.rich-text__blocks>*+a {
   margin-top: 3rem;
 }
