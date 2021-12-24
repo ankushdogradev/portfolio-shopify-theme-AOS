@@ -93,6 +93,38 @@
         "show_rating": false
       }
     },
+    "16403482202c9e8271": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "Gold Jewelry",
+        "collection": "jewelry-for-women",
+        "products_to_show": 4,
+        "show_view_all": true,
+        "swipe_on_mobile": true,
+        "image_ratio": "square",
+        "show_secondary_image": false,
+        "add_image_padding": false,
+        "show_image_outline": true,
+        "show_vendor": false,
+        "show_rating": false
+      }
+    },
+    "1640349470664d3853": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "Silver Jewelry",
+        "collection": "jewelry-for-men",
+        "products_to_show": 4,
+        "show_view_all": true,
+        "swipe_on_mobile": false,
+        "image_ratio": "square",
+        "show_secondary_image": false,
+        "add_image_padding": false,
+        "show_image_outline": true,
+        "show_vendor": false,
+        "show_rating": false
+      }
+    },
     "multi_column": {
       "type": "multicolumn",
       "blocks": {
@@ -139,29 +171,14 @@
         "button_link": "",
         "swipe_on_mobile": false
       }
-    },
-    "16403482202c9e8271": {
-      "type": "featured-collection",
-      "settings": {
-        "title": "Gold Jewelry",
-        "collection": "jewelry-for-women",
-        "products_to_show": 4,
-        "show_view_all": true,
-        "swipe_on_mobile": true,
-        "image_ratio": "square",
-        "show_secondary_image": false,
-        "add_image_padding": false,
-        "show_image_outline": true,
-        "show_vendor": false,
-        "show_rating": false
-      }
     }
   },
   "order": [
     "image_banner",
     "rich_text",
     "featured_products",
-    "multi_column",
-    "16403482202c9e8271"
+    "16403482202c9e8271",
+    "1640349470664d3853",
+    "multi_column"
   ]
 }
