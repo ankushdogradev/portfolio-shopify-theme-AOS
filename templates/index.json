@@ -129,51 +129,37 @@
         "show_view_all": false
       }
     },
-    "multi_column": {
-      "type": "multicolumn",
+    "1640350078e567cf84": {
+      "type": "image-with-text",
       "blocks": {
-        "column1": {
-          "type": "column",
+        "1640350078862a7681-0": {
+          "type": "heading",
           "settings": {
-            "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
-            "link_label": "",
-            "link": ""
+            "heading": "For Every Holiday Wish",
+            "heading_size": "h1"
           }
         },
-        "column2": {
-          "type": "column",
+        "1640350078862a7681-1": {
+          "type": "text",
           "settings": {
-            "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "column3": {
-          "type": "column",
-          "settings": {
-            "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
-            "link_label": "",
-            "link": ""
+            "text": "<p>Elegant jewelry with sparkling stones to make your holidays even more special.<\/p>",
+            "text_style": "body"
           }
         }
       },
       "block_order": [
-        "column1",
-        "column2",
-        "column3"
+        "1640350078862a7681-0",
+        "1640350078862a7681-1"
       ],
       "settings": {
-        "title": "Multicolumn",
-        "image_width": "full",
-        "image_ratio": "adapt",
-        "column_alignment": "left",
-        "background_style": "primary",
-        "button_label": "Button label",
-        "button_link": "",
-        "swipe_on_mobile": false
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "left"
       }
     },
     "1640349821cc94d9ef": {
@@ -213,7 +199,7 @@
     "rich_text",
     "featured_products",
     "1640349768fae1f890",
-    "multi_column",
+    "1640350078e567cf84",
     "1640349821cc94d9ef"
   ]
 }
