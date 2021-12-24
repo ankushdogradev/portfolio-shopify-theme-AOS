@@ -171,6 +171,42 @@
         "button_link": "",
         "swipe_on_mobile": false
       }
+    },
+    "1640349768fae1f890": {
+      "type": "collection-list",
+      "blocks": {
+        "164034976816f148ee-0": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "jewelry-for-women"
+          }
+        },
+        "164034976816f148ee-1": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "jewelry-for-men"
+          }
+        },
+        "164034976816f148ee-2": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": ""
+          }
+        }
+      },
+      "block_order": [
+        "164034976816f148ee-0",
+        "164034976816f148ee-1",
+        "164034976816f148ee-2"
+      ],
+      "settings": {
+        "title": "Shop By Metal",
+        "image_ratio": "square",
+        "color_scheme": "background-1",
+        "swipe_on_mobile": false,
+        "image_padding": false,
+        "show_view_all": false
+      }
     }
   },
   "order": [
@@ -179,6 +215,7 @@
     "featured_products",
     "16403482202c9e8271",
     "1640349470664d3853",
-    "multi_column"
+    "multi_column",
+    "1640349768fae1f890"
   ]
 }
