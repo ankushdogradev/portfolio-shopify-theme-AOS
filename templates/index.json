@@ -80,11 +80,11 @@
     "featured_products": {
       "type": "featured-collection",
       "settings": {
-        "title": "Featured products",
+        "title": "Jewelry",
         "collection": "all",
         "products_to_show": 4,
         "show_view_all": true,
-        "swipe_on_mobile": false,
+        "swipe_on_mobile": true,
         "image_ratio": "square",
         "show_secondary_image": false,
         "add_image_padding": false,
@@ -175,6 +175,37 @@
         "button_link": "",
         "swipe_on_mobile": false
       }
+    },
+    "1640349821cc94d9ef": {
+      "type": "newsletter",
+      "blocks": {
+        "1640349821359dca59-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Book An Appointment"
+          }
+        },
+        "1640349821359dca59-1": {
+          "type": "paragraph",
+          "settings": {
+            "text": "<p>We're here to help with in-store and virtual jewelry styling appointments, tailored just for you.<\/p>"
+          }
+        },
+        "1640349821359dca59-2": {
+          "type": "email_form",
+          "settings": {
+          }
+        }
+      },
+      "block_order": [
+        "1640349821359dca59-0",
+        "1640349821359dca59-1",
+        "1640349821359dca59-2"
+      ],
+      "settings": {
+        "color_scheme": "background-1",
+        "full_width": true
+      }
     }
   },
   "order": [
@@ -182,6 +213,7 @@
     "rich_text",
     "featured_products",
     "1640349768fae1f890",
-    "multi_column"
+    "multi_column",
+    "1640349821cc94d9ef"
   ]
 }
