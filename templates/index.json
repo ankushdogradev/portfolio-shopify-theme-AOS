@@ -152,7 +152,8 @@
         "1640350078862a7681-1"
       ],
       "settings": {
-        "height": "adapt",
+        "image": "shopify:\/\/shop_images\/wedding-rings-with-wedding-vows.jpg",
+        "height": "small",
         "desktop_image_width": "medium",
         "layout": "image_first",
         "desktop_content_position": "top",
